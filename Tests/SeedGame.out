@@ -1,0 +1,50 @@
+mikej@DESKTOP-TITKKAO:~/git/test$ ./azul -s 28738593819283
+Welcome to Azul!
+--------------------
+#Settings
+Seed Randomness: true 
+Versus AI: false 
+Advanced Mode: false 
+
+Menu
+----
+1. New Game 
+2. Load Game 
+3. Credits 
+4. Quit 
+ 
+> 1
+
+Starting a new game 
+ 
+Enter a name for player 0
+> A
+
+Enter a name for player 1
+> B
+
+Let's Play! 
+
+=== Start Round === 
+Turn for player: A
+Factories: 
+0: F 
+1: L R B U 
+2: B Y B B 
+3: L R R U 
+4: B R L U 
+5: L L L R 
+
+Mosaic for: A
+1:         . || . . . . .
+2:       . . || . . . . .
+3:     . . . || . . . . .
+4:   . . . . || . . . . .
+5: . . . . . || . . . . .
+broken: 
+
+> 
+
+// Explanation
+This test will load a game that has the seedRandom setting enabled, the seed will be detected in the save file and loaded. This will also enable the BoxLid feature
+The program will also save the initial tile bag that has been shuffled by the seed.

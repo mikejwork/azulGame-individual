@@ -1,0 +1,20 @@
+=== Start Round === 
+Turn for player: A
+Factories: 
+0: F 
+1: Y B B R 
+2: R R L B 
+3: U L U L 
+4: R Y B L 
+5: B B L Y 
+
+Mosaic for: A
+1:         . || . . . . .
+2:       . . || . . . . .
+3:     . . . || . . . . .
+4:   . . . . || . . . . .
+5: . . . . . || . . . . .
+broken: 
+
+> turn -1 e 2
+Factory out of bounds.

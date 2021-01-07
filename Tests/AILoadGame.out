@@ -1,0 +1,26 @@
+Enter file name
+> Tests/AILoadGame.test
+
+=== Start Round === 
+Turn for player: A
+Factories: 
+0: F Y R L B 
+1: 
+2: 
+3: U L U L 
+4: R Y B L 
+5: B B L Y 
+
+Mosaic for: A
+1:         . || . . . . .
+2:       B B || . . . . .
+3:     . . . || . . . . .
+4:   . . . . || . . . . .
+5: . . . . . || . . . . .
+broken: 
+
+> 
+
+// Explanation
+This test shows how the program can load an AI game even without the "--ai" parameter, The program will load the game as normal and detect that the AI was turned on in the save file.
+Then after all turns have loaded it will continue with the normal player + the AI.

@@ -1,0 +1,48 @@
+Enter file name
+> TakingFTile.test
+
+=== Start Round === 
+Turn for player: PlayerOne
+Factories: 
+0: F 
+1: Y B B R 
+2: R R L B 
+3: U L U L 
+4: R Y B L 
+5: B B L Y 
+
+Mosaic for: PlayerOne
+1:         . || . . . . .
+2:       . . || . . . . .
+3:     . . . || . . . . .
+4:   . . . . || . . . . .
+5: . . . . . || . . . . .
+broken: 
+
+> 
+
+// Explanation
+This test will show how the loadGame will ignore false moves, the program will actually not even add invalid turns to the list of turns when saving, i had to add it manually.
+Heres what it would look like in-game and not from a loaded file:
+
+
+=== Start Round === 
+Turn for player: A
+Factories: 
+0: F 
+1: Y B B R 
+2: R R L B 
+3: U L U L 
+4: R Y B L 
+5: B B L Y 
+
+Mosaic for: A
+1:         . || . . . . .
+2:       . . || . . . . .
+3:     . . . || . . . . .
+4:   . . . . || . . . . .
+5: . . . . . || . . . . .
+broken: 
+
+> turn 0 F 1
+you cannot move the 'F' tile! 
