@@ -1,15 +1,45 @@
-**Advanced Programming Techniques - Semester 2 2020.**
-*Azul Game Assignment.*
+<h1 align="center">
+    <br>
+    <img src="https://i.imgur.com/DMTMfRJ.png" alt="Azul" width="450">
+    <br>
+</h1>
 
-**Milestone 3 - Individual Enhancements**
+<h4 align="center">C++ 2-Player text-based board game, Azul.</h4>
 
-![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)
+<p align="center">
+  <a href="#learning-outcomes">Learning Outcomes</a> •
+  <a href="#individual-enhancements">Individual Enhancements</a> •
+  <a href="#personal-notes">Personal notes</a>
+</p>
+<br>
 
-**brief explanation**
+<p align="center">
+	Advanced Programming Techniques  
+    Semester 2 2020  
+    Milestone 3 : Individual Enhancement
+</p>
 
-> the individual enhancement of my other 'azulGame' repository, brief explanation of the assignment is located there.
+## Individual Enhancements
+This milestone of the assignment was individual and allowed students to pick from a list of enhancements that would grant a certain amount of marks, my choice was as follows:  
 
-> Students were given multiple choices for enhancements to complete, all awarding different marks. I completed all small enhancements, then the optional major enhancement, an AI player to go against in the game.
+**Minor Enhancements**
+- (✔️) Randomness & Box Lid 
+- (✔️) Data Structure Improvements  
 
-> I started by fully re-structuring the program, and implementing the much needed changes / fixes. Then adding the AI mode onto the game.
+**Major Enhancements**
+- (❌) Advanced Azul (Grey board and 6-tile modes)
+- (✔️) Write an AI (Single Player against smart AI, cannot be random)
 
+## Learning Outcomes
+- Linked Lists, Arrays, Vectors, Binary Search Trees
+- Pointers & Dynamic Memory Management
+- File Processing
+- Polymorphism and Encapsulation
+- Program state management
+- Exception Handling
+- Unit testing
+- Usage of C++14 & the C++ STL
+- Develop in a team using collaboration tools (*GitHub, MS Teams*)
+
+## Personal Notes
+Was probably one of the most difficult projects i had worked on in a while at that time, Very happy with end result, achieved an HD (13/15) for this individual component. 
