@@ -4,7 +4,7 @@
     <br>
 </h1>
 
-<h4 align="center">C++ 2-Player text-based board game, Azul.</h4>
+<h4 align="center">C++ 2-Player text-based board game.</h4>
 
 <p align="center">
   <a href="#learning-outcomes">Learning Outcomes</a> •
