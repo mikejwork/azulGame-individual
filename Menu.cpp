@@ -63,22 +63,7 @@ int getInput()
 
 void displayCredits()
 {
-    std::cout << std::endl
-              << "---------------------------------- \n"
 
-              << "Name: Braden Smith \n"
-              << "Student ID: s3787174 \n"
-              << "Email: s3787174@student.rmit.edu.au \n \n"
-
-              << "Name: Michael Jurie \n"
-              << "Student ID: s3785631 \n"
-              << "Email: s3785631@student.rmit.edu.au \n \n"
-
-              << "Name: Issa Chanzi \n"
-              << "Student ID: s3783615 \n"
-              << "Email: s3783615@student.rmit.edu.au \n"
-
-              << "---------------------------------- \n \n";
 }
 
 void Menu::displayMenu()
